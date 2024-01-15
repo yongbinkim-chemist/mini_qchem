@@ -24,7 +24,7 @@ Log (01/14/2024)
 Available features 
 ------------
 - Hartree-Fock 
-- MP2 and MP3
+- MP2 -> Done | MP3 -> in progress...
 - CCSD
 - EOM-CCSD -> Done | Davidson -> in progress...
 

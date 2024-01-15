@@ -37,7 +37,8 @@ Installation
 To use mini-qchem:
 
 .. code-block:: bash
-  git clone https://github.com/yongbinkim-chemist/mini_qchem.git
+
+  git clone https://github.com/yongbinkim-chemist/mini_qchem.git 
   cd mini_qchem
   python -m pip install -e .
 

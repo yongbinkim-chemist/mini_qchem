@@ -7,7 +7,7 @@
 
 The mini_qchem library is a 100% Python-based ab-initio quantum chemistry calculation program.
 The purpose of this project is to enhance my personal understanding of electronic structure theory in practice.
-Currently, I am working on the Davidson algorithm for equation-of-motion coupled-cluster, and I plan to release the source code and jupyter-notebook demo right after the Davidson implementation.
+Currently, I am working on the Davidson algorithm for equation-of-motion coupled-cluster.
 
 As a theoretical and computational quantum chemist with a passion for programming, I enjoy receiving feedback from the community.
 If there are any areas for improvement, I welcome suggestions at any time.
@@ -17,7 +17,9 @@ I look forward to engaging with the outside the world and contributing to intere
 
 Log (01/14/2024)
 ------------
-- Source codes will be released after Davidson algorithm implementation for EOM-CCSD
+- Davidson algorithm implementation for EOM-CCSD in progress...
+- Integrals for more than S orbitals will be implemented...
+- Need parallelization...
 
 Available features 
 ------------

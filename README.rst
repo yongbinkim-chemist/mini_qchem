@@ -41,7 +41,7 @@ To use mini-qchem:
   cd mini_qchem
   python -m pip install -e .
 
-.. Please take a look at the `ipython notebook demo <https://github.com/qchemsoftware/OpenFermion-QChem/blob/main/examples/Openfermion-Qchem.ipynb>`__.
+Please take a look at the `ipython notebook demo <https://github.com/demo/mini_qchem.ipynb>`__.
 
 Authors
 -------

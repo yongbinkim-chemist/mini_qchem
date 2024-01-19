@@ -5,7 +5,6 @@ class CCSD():
     """
     CCSD amplitudes, intermediate approach
     Hbar = e^(-T) Hn e^(-T) = {Hn e^(-T)}c
-    It is done by Yongbin Kim based on the Q-CHEM libcc
     Reference for Equations:
         Many-Body Methods in Chemistry and Physics by Shavitt and Bartlett (Chap 10.7 and Chap 13)
         Gauss, et al  : J. Chem. Phys. 103, 3561 (1995) https://doi.org/10.1063/1.470240
